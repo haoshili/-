@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">艾宾浩斯复习笔记</string>
+
+    <!-- 用户首次登陆 -->
+    <string name="first_type">默认类别</string>
+    <string name="first_model">艾宾浩斯复习模式</string>
+    <string name="first_model_tip">此复习模式按照艾宾浩斯复习规律来创建的。</string>
+    <!-- 笔记 -->
+    <string name="first_title1">自我介绍</string>
+    <string name="first_content1">该软件是一款记忆辅助软件。帮助用户按照自己定义的复习间隔来复习创建的笔记。\n\n笔记可以是一个简单的标题（复习英语第一章），也可以是很长的文字内容，或者是各种大小的照片。\n\n当首页出现某条笔记的时候，也是这条笔记到了复习的时间了，点击笔记标题前面的选择框就就可以完成任务了！\n\n当完成所有的笔记，那么就可以关闭软件了！不过不要忘了，明天来查看是否有要完成的任务哦！</string>
+    <string name="first_title2">点击左侧的选框完成复习任务</string>
+    <string name="first_content2">1. 向左滑动看能发现什么\n\n2.点击右上角按钮试试有什么功能\n\n3.点击左上角返回键看看其他的提示吧</string>
+    <!-- 后边的两个 -->
+    <string name="first_title3">左滑查今天完成的复习任务</string>
+    <string name="first_content3"> </string>
+    <string name="first_title4">#为什么只有我有倒计时#</string>
+    <string name="first_content4">【答案】如果新建了一条笔记，并且该笔记在创建的当天有复习任务，那么当天的任务会以倒计时的形式出现在首页，并且在时间结束后提醒复习。而以后的任务只有只有在它复习时间到了才会显示到首页的。\n\n【Ps】主页只显示当天应该复习的笔记，未到复习时间或者过了复习时间的笔记是不会显示的。重要的事情说三遍。\n\n所以一定不要错过了复习时间哦!\n\n\n\n还可以到【设置】【使用教程】中了解更多的使用技巧。</string>
+
+    <!-- 使用教程*** 标题 -->
+    <string name="tea_title1"> 笔记 • 显示笔记详细信息</string>
+    <string name="tea_title2"> 笔记 • 更改笔记复习进度</string>
+    <string name="tea_title3">笔记 • 修改笔记创建时间</string>
+    <string name="tea_title4">笔记 • 添加图片作为附件</string>
+    <string name="tea_title5">笔记 • 删除作为附件的图片</string>
+    <!-- 10 -->
+    <string name="tea_title6">笔记 • 查看模式详情</string>
+    <string name="tea_title7">类别 • 批量操作笔记</string>
+    <string name="tea_title8">模式 • 长按删除该复习条目</string>
+    <string name="tea_title9">模式 • 点击修改复习条目</string>
+    <string name="tea_title10">分析 • 查看某一天的笔记数目</string>
+    <string name="tea_title11">分析 • 查看某一天的笔记详细数据</string>
+    <!-- 15 -->
+    <string name="tea_title12">分析 • 快速查看上周或者下周的数据</string>
+    <string name="tea_title13">分析 • 快速切换回本周的数据分析</string>
+    <string name="tea_title14">提醒 • 提醒的设计</string>
+    <string name="tea_title15">提醒 • 没有提醒的处理</string>
+    <string name="tea_title16">反馈 • 把您的意见告诉开发者</string>
+    <!-- 20 -->
+    <string name="tea_title17">付费 • 付费提示</string>
+    <string name="tea_title18">付费 • 付费帮助</string>
+
+    <!-- 内容 -->
+    <string name="tea_content1">进入笔记详情界面，向左滑动，显示笔记详情信息。</string>
+    <string name="tea_content2">进入笔记详情界面，点击【菜单】按钮，选择切换复习模式，在弹出的对话框中选择从某个复习模式的第几次开始复习。之前的复习记录会保存，之后的复习记录不会显示。</string>
+    <string name="tea_content3">系统提供修改笔记的日期，和笔记的时间这两种修改方法</string>
+    <string name="tea_content4">点击灰色的图标进入选择图片的界面，选择需要添加的图片作为附件。</string>
+    <string name="tea_content5">在添加完成图片之后，点击已经添加的图片，就会把选择的图片删除掉。</string>
+    <!-- 10 -->
+    <string name="tea_content6">在选择模式之后，点击模式名称后边的感叹号，会弹出对该模式的一个简介。该功能适用于创建了多种复习模式的用户。</string>
+    <string name="tea_content7">进入【类别】，选择需要操作的某个类别，长按某条笔记,就会出现该界面.</string>
+    <string name="tea_content8">选择某个复习，长按删除，但是不会影响已经使用该模式创建的笔记。</string>
+    <string name="tea_content9">点击某条复习模式，会弹出修改的对话框，不会影响已经使用该模式创建的笔记。</string>
+    <string name="tea_content10">点击第一次该条目颜色变深， 显示复习条目总数。</string>
+    <string name="tea_content11">再次点击颜色变深的条目，会弹出笔记列表。</string>
+    <!-- 15 -->
+    <string name="tea_content12">该功能为隐藏功能，按照图示位置，点击即可发现！</string>
+    <string name="tea_content13">点击该按钮，可以快速回到当前星期的数据分析!</string>
+    <string name="tea_content14">【1】倒计时提醒\n在新建笔记之后，如果在新建笔记当天有复习计划，该笔记会在首页会出现倒计时，并且时间到提醒! \n\n【2】每天提醒\n设置需要提醒的时间，每天在那个时间如果有未完成的笔记，会出现提醒。</string>
+    <string name="tea_content15">如果未出现提醒，请查看安全软件是否阻止，部分手机会阻止后台的运行，也可能会出现未提醒的情况。</string>
+    <string name="tea_content16">在使用过程中遇到什么问题，或者一些意见，可以在软件中反馈给我，或者加我的qq431246035，或者发送邮件review5212@foxmail.com。只要看到，会及时解答大家的问题。</string>
+    <!-- 20 -->
+    <string name="tea_content17">【1】支付使用的是第三方支付平台，进入付费界面之后，点击微信支付就可以了,不用理会右上角的登录按钮。\n\n【2】该软件为部分功能付费使用，一次付费，终生使用。\n\n【3】如果您是学生用户，（只限于中学生，小学生），可以联系开发者免费开通账号。</string>
+    <string name="tea_content18">如果您无法使用自助方式完成付费，可以通过扫过上面二维码，或者转账到支付宝账号431246035@qq.com，由开发者人工开通会员功能，切记在备注中标明自己的账号。</string>
+
+    <!-- Feedback -->
+    <string name="feedback">用户反馈</string>
+    <string name="feedback_content">反馈内容</string>
+    <string name="send_feedback">发送反馈</string>
+    <string name="developer">开发者</string>
+    <string name="user">用户</string>
+    <string name="send">发送</string>
+    <string name="info">信息</string>
+
+</resources>

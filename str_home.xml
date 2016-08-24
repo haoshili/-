@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 首页**侧滑 -->
+    <string name="ho_home_code">首页</string>
+    <string name="ho_home_review">复习笔记</string>
+    <string name="ho_home_custom">游客</string>
+    <string name="ho_ansy">上次同步</string>
+    <string name="ho_type">类别</string>
+
+    <!-- 10 -->
+    <string name="ho_model">模式</string>
+    <string name="ho_ana">分析</string>
+    <string name="ho_ansyint">同步中</string>
+    <string name="ho_nonet">网络未连接!</string>
+    <string name="ho_ansy_time">同步时间</string>
+    <string name="ho_setting">设置</string>
+
+    <!-- 15 -->
+    <string name="ho_title">标题</string>
+    <string name="ho_content">内容</string>
+    <string name="ho_creat_time">创建时间</string>
+    <string name="ho_tip">备注</string>
+    <string name="ho_select">选择</string>
+    <string name="ho_title_notnull">标题不可以为空</string>
+    <string name="ho_select_image">图片选择</string>
+
+    <!-- 20 -->
+    <string name="ho_complete">完成</string>
+    <string name="ho_photo">相册</string>
+    <string name="ho_preview">预览</string>
+    <string name="ho_remind">温馨提醒</string>
+    <string name="ho_quit_ok">退出将导致您编辑的内容丢失，您确认要退出吗</string>
+    <!-- 25 -->
+    <string name="ho_quit">退出</string>
+    <string name="ho_todo_remind">您好！在之前3天您有未完成的笔记，当您完成今天的任务之后，会显示之前三天您未完成的复习！</string>
+    <string name="ho_nomore_remind">不再提醒</string>
+    <string name="ho_sure">确定</string>
+    <string name="ho_cancel">取消</string>
+    <string name="ho_creat_note_success">新建笔记成功</string>
+
+    <!-- 30补充 -->
+    <string name="ho_no_tip">无备注</string>
+    <string name="ho_dia_remind1">笔记已经创建成功！</string>
+    <string name="ho_dia_remind2">距离第一次复习还有</string>
+    <string name="ho_dia_remind3">今天首页不会显示这条笔记，"</string>
+    <string name="ho_dia_remind4">天后将会在首页的待完成目录中显示！</string>
+    <string name="ho_edit_time">修改时间</string>
+
+    <!-- 类别 -->
+    <string name="ty_nofile">=该类别下面没有笔记=</string>
+    <string name="ty_cereat_note">您可以点击右上角按钮新建</string>
+    <string name="ty_remind_no_review">该笔记新建成功，但是在未来还没有复习计划</string>
+    <string name="delete">删除</string>
+    <string name="rename">重命名</string>
+    <string name="ty_set_default_type">设置为默认类别</string>
+    <string name="ty_stop_all_review">暂停复习所有笔记</string>
+    <string name="ty_delete_notes">您确认要删除该类别吗？</string>
+    <string name="ty_text_delete">您将删除该类别下面所有的笔记，以及笔记的所有复习计划。输入“删除” 确定。</string>
+    <string name="ty_delete_plan">您将删除该类别下面所有笔记的复习计划，您确定要这么做吗？</string>
+    <string name="ty_has_select">已选择</string>
+    <string name="ty_delete_checked">您确定要删除选中的笔记吗</string>
+
+    <!-- 笔记详情 -->
+    <string name="note_edit">编辑</string>
+    <string name="note_stop">停止复习</string>
+    <string name="note_switch_model">切换复习模式</string>
+    <string name="note_check_review_plan">查看复习计划</string>
+    <string name="note_delete_">您将删除该笔记及其笔记以后所有的复习计划，是否执行该操作</string>
+    <!-- 10 -->
+    <string name="note_has_no">没有待完成的复习计划</string>
+    <string name="note_review_times">复习次数</string>
+    <string name="note_reivew_time">复习时间</string>
+    <string name="note_statue_review">复习状态</string>
+    <string name="note_creat_time">创建时间</string>
+    <!-- 15 -->
+    <string name="note_review_type">复习类别</string>
+    <string name="note_finished">已完成</string>
+    <string name="note_unfinished">未完成</string>
+    <string name="note_all_reivew">累计复习</string>
+    <string name="note_rest_review">剩余复习</string>
+    <!-- 20 -->
+    <string name="note_hold">持续</string>
+    <string name="note_all">累计</string>
+    <string name="note_add_review_plan">新增复习计划</string>
+    <string name="item">次</string>
+
+    <!-- 补充 -->
+    <string name="note_add_review">添加复习</string>
+    <string name="note_add_remind">您已经完成了所有的复习计划，是否添加复习?</string>
+    <string name="note_add">添加</string>
+    <string name="note_no_add">不添加</string>
+    <string name="note_add_review_model">新增复习计划</string>
+    <string name="note_creat_type">新建类别</string>
+    <string name="creat">新建</string>
+    <string name="select_item_type">请选择条目</string>
+    <string name="stop_select_note_type">您确定要暂停复习选中的笔记吗？</string>
+    <string name="stop_reivew_type">停止</string>
+    <string name="note_type">笔记</string>
+
+    <!-- 模式**补充 -->
+    <string name="delmodel_mes_model">您确定要删除该模式吗？</string>
+    <string name="set_default_model">设置为默认模式</string>
+    <string name="review_lasst_model">复习持续</string>
+    <string name="review_count_model">复习次数</string>
+    <string name="during_last_time_model">距离上次复习时间</string>
+    <string name="add_review_model">添加复习次数</string>
+    <string name="updatae_account_addmode">升级艾宾浩斯复习笔记专业版，可以新建无限个个性化复习模式！</string>
+    <string name="review_mdoel">复习</string>
+    <string name="no_add_tip_model">未添加</string>
+    <string name="tip_model">备注：</string>
+    <string name="update_accoutn_edit_model">升级艾宾浩斯复习笔记专业版！任意编辑复习模式，找到合适自己的复习节奏！</string>
+    <string name="review_last_model">复习持续</string>
+    <string name="delete_item_model">删除条目</string>
+    <string name="delete_item_remind_model">是否删除该条目？</string>
+    <string name="delete_model_remind">您没有创建复习条目，该模式已删除！</string>
+    <string name="add_tip_model">添加备注</string>
+    <string name="home1_notice">=您已经完成了所有任务=</string>
+    <string name="home2_notice">=找些任务完成吧=</string>
+    <string name="next_review">距离下次复习还有</string>
+    <string name="set_remind_sound">设置提醒声音</string>
+    <string name="setdata_creat">设置笔记创建的日期</string>
+    <string name="settime_creat">设置笔记创建的时间</string>
+
+    <!-- 分析界面 -->
+    <string name="ana_creat_plan">新建笔记</string>
+    <string name="ana_review_plan">复习计划</string>
+    <string name="ana_need_done">待完成</string>
+    <string name="ana_creat_note">新建的笔记</string>
+    <string name="ana_complete">完成</string>
+    <string name="ana_average">日均</string>
+    <string name="ana_total">总计</string>
+
+</resources>

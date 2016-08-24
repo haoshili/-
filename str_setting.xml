@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 设置界面数据 -->
+    <string name="set_setting">设置</string>
+    <string name="set_greral">通用</string>
+    <string name="set_help">使用教程</string>
+    <string name="set_update_image">仅在WiFi连接时候同步图片</string>
+    <string name="set_resize_content">修改笔记内容字体的大小</string>
+    <string name="set_remind">提醒</string>
+    <string name="set_open_remind">开启提醒</string>
+    <!-- 10 -->
+    <string name="set_open_time">提醒时间</string>
+    <string name="set_set_sound">提醒声音</string>
+    <string name="set_open_sound">开启声音</string>
+    <string name="set_open_vibrate">开启震动</string>
+    <string name="set_about">关于</string>
+    <!-- 15 -->
+    <string name="set_feedback">问题反馈</string>
+    <string name="set_rate">评个分吧</string>
+    <string name="set_about_us">关于应用</string>
+    <string name="set_log_out_account">退出我的账号</string>
+    <string name="set_send_message">发送</string>
+    <!-- 20 -->
+    <string name="set_rate_nice">给个好评</string>
+    <string name="set_check_update">检测更新</string>
+    <string name="set_share_friend">分享给好友</string>
+    <string name="set_lataest_version">当前已是最新版本</string>
+    <string name="set_more_setting">点击显示更多设置</string>
+
+    <!-- 登陆注册 -->
+    <string name="log_useemail">邮箱登陆</string>
+    <string name="log_regiest">注册</string>
+    <string name="log_custom">游客试用</string>
+    <string name="log_password">请输入密码</string>
+    <string name="log_email">请输入邮箱</string>
+    <!-- 10 -->
+    <string name="log_loginin">登录</string>
+    <string name="log_forget_password">忘记密码</string>
+    <string name="log_text_email">请填写你的邮箱地址</string>
+    <string name="log_email_error">请填写正确格式的邮箱</string>
+    <string name="log_email_account_error">账号或者密码错误</string>
+    <!-- 15 -->
+    <string name="log_log_account">用户登录账号</string>
+    <string name="log_log_success">登录成功，进行用户数据同步</string>
+    <string name="log_text_pwd">输入密码</string>
+    <string name="log_pwd_length">密码长度不少于6位</string>
+    <string name="log_text_name">填写你的昵称</string>
+    <!-- 20 -->
+    <string name="log_text_your_email">填写你的邮箱地址</string>
+    <string name="log_text_correct_email">填写正确的邮箱地址</string>
+    <string name="log_text_pawssword">填写密码</string>
+    <string name="log_waiting">请稍后</string>
+
+    <!-- 找回密码 -->
+    <string name="log_find_pwd">找回密码</string>
+    <string name="log_vaildate_failed">验证失败，请重试</string>
+    <string name="log_pwd">密码</string>
+    <string name="log_message">密码找回申请已发到您的邮箱，请您注意查收</string>
+
+    <!-- 补充 -->
+    <string name="complete_set">已完成</string>
+    <string name="about_us_setting">About Us</string>
+    <string name="name_used">该昵称已经被占用</string>
+    <string name="email_used">该邮箱已经注册过了</string>
+    <string name="failed_regiest">注册失败</string>
+    <string name="regiest_success">注册成功</string>
+
+</resources>

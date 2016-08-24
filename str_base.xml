@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ac_code_money">￥</string>
+    <string name="ac_code_from">从</string>
+    <string name="ac_code_year">年</string>
+    <string name="ac_code_month">月</string>
+    <string name="day">天</string>
+
+    <!-- 年月日，时，分 -->
+    <string name="year_base">年</string>
+    <string name="month_base">月</string>
+    <string name="day_base">日</string>
+    <string name="hour_base">时</string>
+    <string name="minute_base">分</string>
+
+    <!-- 星期 -->
+    <string name="sunday">周日</string>
+    <string name="monday">周一</string>
+    <string name="tuesday">周二</string>
+    <string name="wednesday">周三</string>
+    <string name="thursday">周四</string>
+    <string name="friday">周五</string>
+    <string name="saturday">周六</string>
+    <string name="loading">请稍后。。。</string>
+
+</resources>

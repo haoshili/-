@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 账号详情 -->
+    <string name="ac_code_begin_use_note">开始使用艾宾浩斯复习笔记</string>
+    <string name="ac_code_cur_use">当月使用</string>
+    <string name="ac_code_cloud_flow">上传流量</string>
+    <!-- xml -->
+    <string name="ac_xml_review_count">复习次数</string>
+    <string name="ac_xml_complete_percent_">完成率</string>
+    <string name="ac_xml_update_account">账户升级</string>
+    <string name="ac_xml_pay_account">付费账号</string>
+    <string name="ac_xml_free_account">免费账户</string>
+
+    <!-- 账号修改 -->
+    <string name="ac_code_edit_info">修改个人信息</string>
+    <string name="ac_code_has_validate">已验证</string>
+    <string name="ac_code_no_validate">未验证</string>
+    <string name="ac_code_toast_email">邮箱已验证成功</string>
+    <string name="ac_code_toast_send1">请求验证邮件成功，请到您的邮箱查看！</string>
+    <string name="ac_code_toast_send2">邮箱中进行激活。</string>
+    <string name="ac_code_toast_failed">请求验证邮件失败:</string>
+    <string name="ace_xml_iamge">头像</string>
+    <string name="ace_xml_name">名字</string>
+    <string name="ace_xml_email">邮箱</string>
+    <string name="ace_xml_editpwd">修改账号密码</string>
+    <string name="ace_xml_validate_email">验证邮箱</string>
+
+    <!-- 付费界面 -->
+    <string name="acp_code_free">艾宾浩斯复习笔记免费账号</string>
+    <string name="acp_code_pay">艾宾浩斯复习笔记付费账号</string>
+    <string name="acp_code_cloud_copy">云端备份</string>
+    <string name="acp_code_off_operate">离线操作</string>
+    <string name="acp_code_abhs_model">艾宾浩斯复习模式</string>
+    <string name="acp_person_model">自定义复习模式</string>
+    <string name="acp_use_image">使用图片作为附件</string>
+    <string name="acp_upload_flow">每月1GB上传流量</string>
+
+    <!-- 密码修改 -->
+    <string name="enter_original_password">请输入原始密码</string>
+    <string name="enter_new_password">输入新密码</string>
+    <string name="enter_password_twice">再次输入新密码</string>
+    <string name="reset_password">重置密码</string>
+    <string name="old_password_error">原始密码错误</string>
+    <string name="less_6">新密码不能低于6位</string>
+    <string name="second_wrong">两次输入的密码不一致</string>
+    <string name="edit_success">密码修改成功</string>
+    <string name="edit_failed">密码修改失败</string>
+
+</resources>
